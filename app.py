@@ -24,6 +24,6 @@ with col2:
 
 col1,col2 = st.columns(2)
 with col1:
-    st.html("<img src='https://static.wikia.nocookie.net/parsel/images/3/3c/D9507bdac328af95dcb0365bbcd81971--bad-boys-exhibitions.png/revision/latest?cb=20171213160443' width='200'  />")
+    st.html("<img src='https://easydrawingguides.com/wp-content/uploads/2021/11/how-to-draw-ron-weasly-from-harry-potter-featured-image-1200-1.png' width='200'  />")
 with col2:
     st.markdown('#### Marco Zárate')
