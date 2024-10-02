@@ -1,4 +1,6 @@
-# mcd_modulo10_proyectofinal
+# Maestría en Ciencia de Datos y Big Data
+## Módulo 10 - Proyecto Final
+
 
 ## Crear Entorno
 
@@ -11,3 +13,15 @@
 ## Instalar requerimientos
 
     pip install -r requirements.txt
+
+## Ejecución
+
+    streamlit run app.py
+
+## Integrantes
+
+### Jhazeel Colque
+
+### Nicole Condori
+
+### Marco Zárate
